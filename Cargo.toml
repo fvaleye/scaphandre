@@ -23,7 +23,7 @@ protobuf = "2.20.0"
 serde = { version = "1.0", features = ["derive"], optional = true }
 serde_json = { version = "1.0", optional = true }
 warp10 = { version = "1.0.0", optional = true }
-time = "0.2.25"
+time = "0.3.17"
 colored = "2.0.0"
 chrono = "0.4.19"
 docker-sync = { version = "0.1.2", optional = true }
